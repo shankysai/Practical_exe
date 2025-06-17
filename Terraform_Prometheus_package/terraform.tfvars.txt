@@ -1,0 +1,5 @@
+aws_region = "us-east-1"
+ami_id = "ami-id" #update the exact ami id here for amazon Linux
+instance_type = "t2.micro"
+key_name = "key-name" #update the actual key name here
+
